@@ -1,0 +1,16 @@
+Nome: Carlos
+Idade: 18/25
+Profissão: Servente
+Salário: 800 reais/mês
+Empresa: Autônomo, sem registro
+Estado Civil: Solteiro, mora com os pais
+Hobby: Jogar futebol, tirar um sono na hora do almoço
+Gosto musical: funkzão brabo
+
+Biografia: Basicamente Carlos precisou trabalhar desde muito novo para
+ajudar sua família dentro de casa. Quase toda sua renda mensal é distribuída
+para quitar as divídas de dentro de casa, e o pouco que lhe resta é utilizado para
+sua vida pessoal (Ex. compra de roupas, acessórios, bebidas, festas etc);
+
+
+

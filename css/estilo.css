@@ -1,0 +1,24 @@
+:root{
+    --color-branco: #FFFFFF;
+    --color-dourado: #FFD700;
+    --color-verde: #008037;
+    --color-preto-smoked: #000000a2;
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu {
+    position: fixed;
+    width: 100vw;
+    padding: 0.8rem 0px 0.8rem 0px;
+    background-color: var(--color-preto-smoked);
+
+    font-family: 'Stopmotion', sans-serif;
+}
+
+.content{
+    height: 8000px;
+}
